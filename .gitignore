@@ -1,6 +1,10 @@
 # Secrets
 .env
 
+# History
+history.log
+response.json
+
 # IDE
 .idea/
 .vscode/
